@@ -3,7 +3,7 @@
 ## about me :
 - 2005 dev;
 - collage/ university : University of Informations and Technologies, Vietnam National University Ho Chi Minh
-- department : Science and Engineer of Information
+- department : Information Sciences and Engineering (ISE)
 - major : Informations and Technologies (Japanese Market Orientation)
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,kotlin,linux,cs,cpp,powershell)](https://skillicons.dev)
