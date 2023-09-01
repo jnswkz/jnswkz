@@ -9,9 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,java,kotlin,linux,cs,cpp,powershell)](https://skillicons.dev)
 
 ## contact :
-![Static Badge](https://img.shields.io/badge/discord-jnsss__new-blue)
-
-![Static Badge](https://img.shields.io/badge/email-giangtemp225%40gmail.com-cyan)
+![Static Badge](https://img.shields.io/badge/discord-jnsss__new-blue) ![Static Badge](https://img.shields.io/badge/email-giangtemp225%40gmail.com-cyan)
 
 
 ## social :
