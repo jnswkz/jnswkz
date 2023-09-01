@@ -11,7 +11,7 @@
 ## contact :
 ![Static Badge](https://img.shields.io/badge/discord-jnsss__new-blue)
 
-![Static Badge](https://img.shields.io/badge/email__-giangtemp225%40gmail.com-cyan)
+![Static Badge](https://img.shields.io/badge/myemail-giangtemp225%40gmail.com-cyan)
 
 
 ## social :
