@@ -1,5 +1,4 @@
-# Hi there 👋, my name is Nguyen Huu Lam Giang ><
-# こんにちは、わたしは　ｊｎｓです　！
+# こんにちは、わたしはｊｎｓです。UITのがくせいです。ベトナムじんです。
 ## about me :
 - 2005 dev;
 - collage/ university : University of Informations and Technologies, Vietnam National University Ho Chi Minh;
