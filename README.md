@@ -1,4 +1,4 @@
-# こんにちはございます。わたしはｊｎｓです。UITのがくせいです。ベトナムからきました。
+# Kôn ni chi wa。わたしはｊｎｓです。UITのがくせいです。ベトナムからきました。
 ## about me :
 - 2005 dev;
 - collage/ university : University of Informations and Technologies, Vietnam National University Ho Chi Minh;
