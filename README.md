@@ -1,9 +1,11 @@
-# Kôn ni chi wa。わたしはｊｎｓです。UITのがくせいです。ベトナムからきました。
+#　こんにちは。私はジエヌエスです。
 ## about me :
 - 2005 dev;
 - collage/ university : University of Informations and Technologies, Vietnam National University Ho Chi Minh;
-- department : Information Sciences and Engineering (ISE);
-- major : Informations and Technologies (Japanese Market Orientation);
+- faculty : Information Sciences and Engineering (ISE);
+- major : Informations and Technologies ( Vietnam-Japan Program );
+          Informations Security;
+  
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,kotlin,linux,cs,cpp,powershell)](https://skillicons.dev)
 
