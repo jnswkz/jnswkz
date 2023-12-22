@@ -1,3 +1,11 @@
-![colorpicker](https://media.tenor.com/thvZXbONJO4AAAAC/amelia-watson.gif 'Amelia Waston 4life')
-#
-dis is my brofile
+## Hi
+
+yaah as u can see i hab nothin to flex yah
+
+## sth bout me
+- 2005
+- mck
+- uit
+- data stuff
+
+## tks for readin 
