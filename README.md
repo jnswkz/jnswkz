@@ -1,14 +1,15 @@
-## Hi
-
-yaah as u can see i hab nothin to flex 
-
-## sth bout me
-- 2005
-- mck
-- uit
-- data stuff
-
-## 
-also dis is [my blog](https://jnswkz.github.io)
-
-## tks for readin 
+# github.com 
+|
+-> me
+- Nguyen Huu Lam "jns" Giang
+- 05/02/2005
+- University of  Informations and Technology - VNUHCM
+- Informations Science and Engineering
+# github.com 
+|
+-> skill
+- Programming Language : Python, C++, Java
+- ...
+# github.com
+|
+-> 
