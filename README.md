@@ -12,6 +12,3 @@ github.com
 -> skill
 - Programming Language : Python, C++, Java
 - ...
-github.com
-|
--> 
