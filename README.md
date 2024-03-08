@@ -1,10 +1,2 @@
-#
--> me
-- Nguyen Huu Lam "jns" Giang
-- 05/02/2005
-- University of  Informations and Technology - VNUHCM
-- Informations Science and Engineering
-# 
--> skill
-- Programming Language : Python, C++, Java
-- ...
+## hello thereee :333
+![2024-03-08-11-39-09](https://github.com/jnswkz/jnswkz/assets/63092113/4d7822e4-cf99-429f-8b44-92d07205c4b7)
