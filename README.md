@@ -1,4 +1,2 @@
 ## jns
-
-![test](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25zbTl2d2NnN3h1N3N5bmRuams3aGlpM2czc2xrY2ZnczR0Y2QwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zaSa78fB3qByRVmkEg/giphy.gif)
-
+![{6F61CAB9-F2B2-4611-8119-F4FAF084000E}](https://github.com/user-attachments/assets/f3bf4dbe-ce99-431c-8f1a-2e36fde5ac8e)
