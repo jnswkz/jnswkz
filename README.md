@@ -1,3 +1,3 @@
 ## so who tf is jns
 
-![{7F12A9BB-9DDB-4F49-ACEF-6F1A47080C84}](https://github.com/user-attachments/assets/0e50c0da-38da-437a-a98c-7e8ceeaf3dd0)
+![{C8465C20-32F1-460A-A2F4-BA374275C897}](https://github.com/user-attachments/assets/106bde3c-eabe-416a-ac71-2d812584eb04)
