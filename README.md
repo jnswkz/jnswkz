@@ -9,3 +9,9 @@ For me, curiosity changes everything.
 ## skills
 
 - Python, JS, C++, Sql and more
+
+## reach me at
+
+[email](mailto:giangnhl@outlook.com)
+discord: jannislaw (919173270002090034)
+
