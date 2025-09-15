@@ -12,6 +12,6 @@ For me, curiosity changes everything.
 
 ## reach me at
 
-[email](mailto:giangnhl@outlook.com)
-discord: jannislaw (919173270002090034)
+- [email](mailto:giangnhl@outlook.com)
+- discord: jannislaw (919173270002090034)
 
