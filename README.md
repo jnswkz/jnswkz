@@ -2,9 +2,13 @@
 
 <img width="1280" height="680" alt="cover" src="https://github.com/user-attachments/assets/10582a04-e738-4b5a-882d-60ae1ec7d2bb" />
 
-Hi, I'm Giang, an IT student from VNUHCM-UIT. I'm fascinated by coding, from webdev to software engineering. When I'm not coding, you can catch me poring over Formula 1 or other motorsport data and strategy, inspired by the way cutting-edge tech and some split-second decisions shape every lap. Excited to bring that same precision and curiosity to every project.
+putting human in front of every factor.
+curiosity changes everything.
+f1/motorsport strongly addicted.
 
-For me, curiosity changes everything.
+Trainee at [ELCA Vietnam](https://www.elca.ch/)
+Software Engineering - Web programming Talent at [Viettel Digital Talent](https://tuyendung.viettel.vn/page/page-digitalTalent)
+
 
 ## skills
 
