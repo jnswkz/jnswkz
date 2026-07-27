@@ -14,8 +14,7 @@
 
 - Python, JS, C++, Sql and more
 
-## reach me at
+## have a strong passion for money 😭
 
-- [email](mailto:giangnhl@outlook.com)
-- discord: jannislaw (919173270002090034)
+<img alt="money" src="https://http.cat/images/402.jpg" />
 
