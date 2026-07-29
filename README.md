@@ -6,9 +6,10 @@
 - curiosity changes everything.
 - f1/motorsport strongly addicted.
 
-- Trainee at [ELCA Vietnam](https://www.elca.ch/)
+- Was a Trainee at [ELCA Vietnam](https://www.elca.ch/)
 - Software Engineering - Web programming Talent at [Viettel Digital Talent](https://tuyendung.viettel.vn/page/page-digitalTalent)
 
+- Intern at [VTIT-Viettel Software](https://viettelsoftware.com/)
 
 ## skills
 
