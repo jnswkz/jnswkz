@@ -2,7 +2,7 @@
 
 <img width="1280" height="680" alt="cover" src="https://github.com/user-attachments/assets/10582a04-e738-4b5a-882d-60ae1ec7d2bb" />
 
-- putting human in front of every factor.
+- put the human factor forward
 - curiosity changes everything.
 - f1/motorsport strongly addicted.
 
