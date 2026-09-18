@@ -12,6 +12,7 @@
 - Software Engineering - Web programming Talent at [Viettel Digital Talent](https://tuyendung.viettel.vn/page/page-digitalTalent)
 - Intern at [VTIT-Viettel Software](https://viettelsoftware.com/)
 
+- Wannabe Software Solution Architect
 ## skills
 
 - Python, JS, C++, Sql and more
